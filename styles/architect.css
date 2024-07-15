@@ -81,7 +81,7 @@ margin-bottom: 24px;
     max-width: 1440px;
     padding: 85px 150px 130px 150px;
     margin: 0 auto;
-    gap: 146px;
+    gap: 130px;
     align-items: start;
 }
 .features h4{
@@ -97,7 +97,7 @@ margin-bottom: 24px;
     border-radius: 8px;
 }
 .card{
-    max-width: 514px;
+    width: 514px;
     padding: 20px;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -141,12 +141,10 @@ font-weight: 400;
 margin-top: 24px;
 }
 .cards{
-    box-sizing: border-box;
-    width: 241.83px;
+    width: 240px;
+    height: 240px;
     border: 1px solid rgb(255, 144, 14);
     border-radius: 8px;
-    padding: 40px;
-    margin-right: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
